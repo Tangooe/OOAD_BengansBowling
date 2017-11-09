@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOAD_BengansBowling", "OOAD_BengansBowling\OOAD_BengansBowling.csproj", "{F0045851-237C-49A2-BF10-A37CCBB5D4C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOAD_BengansBowlingTest", "OOAD_BengansBowlingTest\OOAD_BengansBowlingTest.csproj", "{E8366F27-BBE6-4982-80F6-1C5B48E239EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F0045851-237C-49A2-BF10-A37CCBB5D4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0045851-237C-49A2-BF10-A37CCBB5D4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0045851-237C-49A2-BF10-A37CCBB5D4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8366F27-BBE6-4982-80F6-1C5B48E239EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8366F27-BBE6-4982-80F6-1C5B48E239EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8366F27-BBE6-4982-80F6-1C5B48E239EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8366F27-BBE6-4982-80F6-1C5B48E239EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
